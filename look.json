@@ -1,0 +1,24 @@
+{
+  "id": "lichen",
+  "name": "Lichen",
+  "version": "1.0.0",
+  "repo": "https://github.com/qempexe/aequalyn-look-lichen",
+  "pieces": {
+    "bar": {
+      "shape": "islands",
+      "surface": "glass",
+      "ends": "capsule",
+      "radius": 14
+    },
+    "dock": {
+      "surface": "glass",
+      "ends": "capsule",
+      "opacity": 85
+    },
+    "sleep": {
+      "lockMinutes": 10,
+      "screenOffMinutes": 12,
+      "suspendMinutes": 30
+    }
+  }
+}
